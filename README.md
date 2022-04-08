@@ -5,6 +5,10 @@ PRA1 Webscraping
 Francisco José Ramírez Vicente
 
 # Ficheros
+
+Francisco_Ramirez_PRA1.pdf
+soluciones a las preguntas de la práctica
+
 README.md 
 este fichero
 
@@ -17,9 +21,20 @@ dataset completo, uniendo ambos, Google Maps Reviews y Tripadvisor
 dataset_tripadvisor.cvs         
 dataset extraído de Tripadvisor Restaurantes
 
-pra1_reviews_objetos.py         
+Python/pra1_reviews_objetos.py         
 programa principal
 
 # DOI Zenodo
 https://doi.org/10.5281/zenodo.6425686
+
+# Requisitos de instalación y ejecución
+Windows 10/11
+Python 3.X
+
+Librerías Python:
+Selenium
+pip install selenium
+
+Webdriver Manager
+pip install webdriver-manager
 
