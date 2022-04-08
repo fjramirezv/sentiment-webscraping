@@ -41,3 +41,14 @@ Selenium:
 Webdriver Manager: 
 *pip install webdriver-manager*
 
+Ejecución:
+*python pra1_reviews_objetos.py*
+
+* Abrirá primer la web de Google Maps, aceptará los términos de servicio y comenzará el scraping
+* Expandirá los comentarios y se extraen las reviews
+* Al cabo de unos segundos se cerrará y los datos se almacenan en el fichero CSV de GoogleMaps
+* Inmediatamente después se abrirá la web de Tripadvisor
+* Aceptará los términos y comenzará el scraping
+* Pasará dos veces de página y se extraen las reviews
+* Los datos se guardan en el fichero CSV de Tripadvisor
+* Termina el proceso cerrando las ventanas
