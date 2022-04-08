@@ -32,8 +32,8 @@ https://doi.org/10.5281/zenodo.6425686
 **Python 3.X**
 
 Selenium: 
-pip install selenium
+*pip install selenium*
 
 Webdriver Manager: 
-pip install webdriver-manager
+*pip install webdriver-manager*
 
