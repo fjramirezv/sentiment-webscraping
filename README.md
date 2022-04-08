@@ -13,6 +13,9 @@ soluciones a las preguntas de la práctica
 **README.md**   
 este fichero
 
+**LICENSE**   
+Licencia
+
 **dataset_googlempas.csv**          
 dataset de ejemplo generado con Google Maps Reviews
 
