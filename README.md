@@ -31,7 +31,6 @@ https://doi.org/10.5281/zenodo.6425686
 Windows 10/11
 Python 3.X
 
-Librerías Python:
 Selenium
 pip install selenium
 
