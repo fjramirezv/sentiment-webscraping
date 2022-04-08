@@ -31,9 +31,9 @@ https://doi.org/10.5281/zenodo.6425686
 Windows 10/11
 Python 3.X
 
-Selenium
+Selenium: 
 pip install selenium
 
-Webdriver Manager
+Webdriver Manager: 
 pip install webdriver-manager
 
