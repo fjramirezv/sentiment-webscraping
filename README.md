@@ -44,7 +44,7 @@ Webdriver Manager:
 Ejecución:
 *python pra1_reviews_objetos.py*
 
-* Abrirá primer la web de Google Maps, aceptará los términos de servicio y comenzará el scraping
+* Abrirá en primer la web de Google Maps, aceptará los términos de servicio y comenzará el scraping
 * Expandirá los comentarios y se extraen las reviews
 * Al cabo de unos segundos se cerrará y los datos se almacenan en el fichero CSV de GoogleMaps
 * Inmediatamente después se abrirá la web de Tripadvisor
